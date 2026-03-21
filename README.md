@@ -76,7 +76,3 @@
 </p>
 
 <h4 align="center"> 💀 — give me <b>code</b>, <b>coffee</b>, and <b>bugs</b> 🐞</h4>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFB6C1&height=80&section=footer"/>
-</p>
