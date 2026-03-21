@@ -1,8 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nadeen.nadeen">
-
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=FFB6C1&width=700&lines=Hi,+I'm+Nadeen+👋;CS+Engineering+Student;AI+%26+Front-End+Learner;Competitive+Programmer"/>
-</h1>
+</p>
 
 ---
 
@@ -14,19 +12,20 @@
 
 ---
 
-<h2 align="center">🧠 Skills</h2>
+## 🧠 Skills
 <p align="center">
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </p>
 
 ---
 
-<h2 align="center">💻 Competitive Programming</h2>
+## 💻 Competitive Programming
 <p align="center">
   <a href="https://codeforces.com/profile/Nadeen_Shadeed">
     <img src="https://img.shields.io/badge/Codeforces-%231f8acb.svg?&style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -38,10 +37,20 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=NadeenShadeed&show_icons=true&theme=tokyonight" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeenShadeed&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=NadeenShadeedE&theme=tokyo-night" />
+</p>
+
+---
 
 
-
-<h2 align="center">📫 Connect With Me</h2>
+## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nadeen-shadeed-60211a2a5/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -56,5 +65,6 @@
 
 ---
 
+>
 
 <h4 align="center"> 💀 — give me <b>code</b>, <b>coffee</b>, and <b>bugs</b> 🐞</h4>
