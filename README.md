@@ -19,7 +19,6 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </p>
 
@@ -27,10 +26,10 @@
 
 ## 💻 Competitive Programming
 <p align="center">
-  <a href="https://codeforces.com/profile/Nadeen_Shadeed">
+  <a href="https://codeforces.com/profile/Eng-NadeenShadeed">
     <img src="https://img.shields.io/badge/Codeforces-%231f8acb.svg?&style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Nadeen2005/">
+  <a href="https://leetcode.com/Eng-NadeenShadeed/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
@@ -39,15 +38,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=NadeenShadeed&show_icons=true&theme=tokyonight" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeenShadeed&layout=compact&theme=tokyonight" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Eng-NadeenShadeed&show_icons=true&theme=tokyonight" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-NadeenShadeed&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=NadeenShadeedE&theme=tokyo-night" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-NadeenShadeed&theme=tokyo-night" />
 </p>
 
 ---
+
 
 
 ## 📫 Connect With Me
@@ -64,7 +64,5 @@
 </p>
 
 ---
-
->
 
 <h4 align="center"> 💀 — give me <b>code</b>, <b>coffee</b>, and <b>bugs</b> 🐞</h4>
