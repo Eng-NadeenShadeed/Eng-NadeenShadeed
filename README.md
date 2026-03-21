@@ -21,7 +21,6 @@
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 </p>
 
@@ -39,22 +38,8 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=NadeenShadeed&show_icons=true&theme=tokyonight" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeenShadeed&layout=compact&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=NadeenShadeedE&theme=tokyo-night" />
-</p>
 
----
-
-<h2 align="center">📌 Projects</h2>
-<p align="center">🚀 Coming soon... (Front-End & AI projects will appear here)</p>
-
----
 
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
@@ -71,8 +56,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="280" alt="Cute coding gif" />
-</p>
 
 <h4 align="center"> 💀 — give me <b>code</b>, <b>coffee</b>, and <b>bugs</b> 🐞</h4>
