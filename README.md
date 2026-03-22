@@ -25,10 +25,10 @@
 
 ## ✿ Competitive Programming 
 <p align="center">
-  <a href="https://codeforces.com/profile/Eng-NadeenShadeed">
+  <a href="https://codeforces.com/profile/Nadeen_Shadeed">
     <img src="https://img.shields.io/badge/Codeforces-%231f8acb.svg?&style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Eng-NadeenShadeed/">
+  <a href="https://leetcode.com/u/Nadeen2005/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
