@@ -38,9 +38,7 @@
 ## ✿ GitHub Stats
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Eng-NadeenShadeed&show_icons=true&theme=tokyonight" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-NadeenShadeed&layout=compact&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-NadeenShadeed&theme=tokyo-night" />
 </p>
